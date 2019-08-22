@@ -6,6 +6,11 @@ import javax.persistence.Id;
 import java.io.Serializable;
 import java.util.Date;
 
+/**
+ * @Auther: Ivan
+ * @Date: 2019/8/22 21:46
+ * @Description:
+ */
 public class UmsMember implements Serializable {
 
     @Id
