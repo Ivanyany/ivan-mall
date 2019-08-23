@@ -1,10 +1,10 @@
 package com.ivan.imall.user.service.impl;
 
-import com.ivan.imall.user.bean.UmsMember;
-import com.ivan.imall.user.bean.UmsMemberReceiveAddress;
+import com.ivan.imall.bean.UmsMember;
+import com.ivan.imall.bean.UmsMemberReceiveAddress;
+import com.ivan.imall.service.UserService;
 import com.ivan.imall.user.mapper.UmsMemberReceiveAddressMapper;
 import com.ivan.imall.user.mapper.UserMapper;
-import com.ivan.imall.user.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import tk.mybatis.mapper.entity.Example;

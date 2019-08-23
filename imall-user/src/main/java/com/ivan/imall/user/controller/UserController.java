@@ -1,8 +1,8 @@
 package com.ivan.imall.user.controller;
 
-import com.ivan.imall.user.bean.UmsMember;
-import com.ivan.imall.user.bean.UmsMemberReceiveAddress;
-import com.ivan.imall.user.service.UserService;
+import com.ivan.imall.bean.UmsMember;
+import com.ivan.imall.bean.UmsMemberReceiveAddress;
+import com.ivan.imall.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

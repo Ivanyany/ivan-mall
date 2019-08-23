@@ -1,6 +1,7 @@
 package com.ivan.imall.user.mapper;
 
-import com.ivan.imall.user.bean.UmsMemberReceiveAddress;
+
+import com.ivan.imall.bean.UmsMemberReceiveAddress;
 import tk.mybatis.mapper.common.Mapper;
 
 /**
@@ -8,5 +9,5 @@ import tk.mybatis.mapper.common.Mapper;
  * @Date: 2019/8/22 23:14
  * @Description:
  */
-public interface UmsMemberReceiveAddressMapper extends Mapper<UmsMemberReceiveAddress>{
+public interface UmsMemberReceiveAddressMapper extends Mapper<UmsMemberReceiveAddress> {
 }

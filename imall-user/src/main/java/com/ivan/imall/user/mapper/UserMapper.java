@@ -1,6 +1,7 @@
 package com.ivan.imall.user.mapper;
 
-import com.ivan.imall.user.bean.UmsMember;
+
+import com.ivan.imall.bean.UmsMember;
 
 import java.util.List;
 
