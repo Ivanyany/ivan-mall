@@ -1,11 +1,11 @@
-package com.ivan.imall.user.bean;
+package com.ivan.imall.bean;
 
 import javax.persistence.Id;
 import java.io.Serializable;
 
 /**
  * @Auther: Ivan
- * @Date: 2019/8/22 21:47
+ * @Date: 2019/8/23 09:31
  * @Description:
  */
 public class UmsMemberReceiveAddress implements Serializable {

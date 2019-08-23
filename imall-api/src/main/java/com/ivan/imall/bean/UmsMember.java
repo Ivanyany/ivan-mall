@@ -1,4 +1,4 @@
-package com.ivan.imall.user.bean;
+package com.ivan.imall.bean;
 
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
@@ -8,7 +8,7 @@ import java.util.Date;
 
 /**
  * @Auther: Ivan
- * @Date: 2019/8/22 21:46
+ * @Date: 2019/8/23 09:30
  * @Description:
  */
 public class UmsMember implements Serializable {
@@ -186,5 +186,6 @@ public class UmsMember implements Serializable {
     public void setHistoryIntegration(int historyIntegration) {
         this.historyIntegration = historyIntegration;
     }
+
 
 }
